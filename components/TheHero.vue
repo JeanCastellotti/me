@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-screen-md mx-auto px-4 flex gap-20 items-center">
+  <section class="max-w-screen-md mx-auto px-4 flex gap-20 items-center">
     <div class="-rotate-3 rounded-lg bg-gray-200 dark:bg-slate-700 w-64">
       <img
         src="/portrait.jpeg"
@@ -20,5 +20,5 @@
         expedita! Aliquid, soluta facere?
       </p>
     </div>
-  </div>
+  </section>
 </template>
