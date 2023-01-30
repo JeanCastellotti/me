@@ -1,47 +1,32 @@
 [
   {
     "name": "javascript",
-    "icons": {
-      "default": "skill-icons:javascript"
-    },
+    "icon": "skill-icons:javascript",
     "level": "4/5"
   },
   {
     "name": "vue",
-    "icons": {
-      "light": "skill-icons:vuejs-light",
-      "dark": "skill-icons:vuejs-dark"
-    },
+    "icon": "skill-icons:vuejs-light",
     "level": "3/5"
   },
   {
     "name": "tailwindcss",
-    "icons": {
-      "light": "skill-icons:tailwindcss-light",
-      "dark": "skill-icons:tailwindcss-dark"
-    },
+    "icon": "skill-icons:tailwindcss-light",
     "level": "3/5"
   },
   {
     "name": "nuxt",
-    "icons": {
-      "light": "skill-icons:nuxtjs-light",
-      "dark": "skill-icons:nuxtjs-dark"
-    },
+    "icon": "skill-icons:nuxtjs-light",
     "level": "2/5"
   },
   {
     "name": "typescript",
-    "icons": {
-      "default": "skill-icons:typescript"
-    },
+    "icon": "skill-icons:typescript",
     "level": "1/5"
   },
   {
     "name": "adonis",
-    "icons": {
-      "default": "logos:adonisjs-icon"
-    },
+    "icon": "logos:adonisjs-icon",
     "level": "1/5"
   }
 ]

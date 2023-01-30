@@ -37,8 +37,6 @@ const iconPosition = computed(() => {
     >
       {{ title }}
     </h2>
-    <div class="flex gap-10 items-center">
-      <slot />
-    </div>
+    <slot />
   </section>
 </template>

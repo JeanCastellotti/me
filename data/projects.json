@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "bee-saver.png",
+    "title": "Bee Saver",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, architecto veritatis itaque, aut quisquam, reprehenderit esse repellat vero id obcaecati accusantium.",
+    "stack": ["skill-icons:tailwindcss-light", "skill-icons:alpinejs-light"],
+    "link": "https://jeandevfr.github.io/beesaver/"
+  },
+  {
+    "id": 2,
+    "image": "dice-game.png",
+    "title": "Dice Game",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, architecto veritatis itaque, aut quisquam, reprehenderit esse repellat vero id obcaecati accusantium.",
+    "stack": ["skill-icons:tailwindcss-light", "skill-icons:javascript"],
+    "link": "https://jeandevfr.github.io/dicegame/public/"
+  },
+  {
+    "id": 3,
+    "image": "clipboard.png",
+    "title": "Clipboard",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, architecto veritatis itaque, aut quisquam, reprehenderit esse repellat vero id obcaecati accusantium.",
+    "stack": ["skill-icons:html", "skill-icons:sass"],
+    "link": "https://jeandevfr.github.io/clipboard/"
+  },
+  {
+    "id": 4,
+    "image": "charles-cantin.png",
+    "title": "Charles Cantin",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, architecto veritatis itaque, aut quisquam, reprehenderit esse repellat vero id obcaecati accusantium.",
+    "stack": [
+      "skill-icons:tailwindcss-light",
+      "skill-icons:netlify-light",
+      "logos:strapi-icon"
+    ],
+    "link": "https://stupefied-chandrasekhar-14846a.netlify.app/"
+  },
+  {
+    "id": 5,
+    "image": "clipboard.png",
+    "title": "Hypnos",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, architecto veritatis itaque, aut quisquam, reprehenderit esse repellat vero id obcaecati accusantium.",
+    "stack": [
+      "logos:adonisjs-icon",
+      "skill-icons:tailwindcss-light",
+      "skill-icons:postgresql-light",
+      "skill-icons:heroku"
+    ]
+  }
+]

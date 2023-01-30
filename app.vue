@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-white dark:bg-slate-800 space-y-32">
+  <div class="min-h-screen bg-white dark:bg-slate-800 space-y-32 pb-4">
     <TheHeader />
     <TheHero />
     <AppSection
@@ -7,11 +7,21 @@
       title-position="left"
       icon="healthicons:high-bars-outline"
     >
-      <SkillsList />
-      <div class="flex-1">
-        <SkillsDiploma />
-      </div>
+      <SkillsWrapper>
+        <template #left>
+          <SkillsList />
+        </template>
+        <template #right>
+          <SkillsDiploma />
+        </template>
+      </SkillsWrapper>
     </AppSection>
-    <AppSection title="Projets" title-position="right" icon=""></AppSection>
+    <AppSection
+      title="Projets"
+      title-position="right"
+      icon="mingcute:code-fill"
+    >
+      <ProjectsList />
+    </AppSection>
   </div>
 </template>
