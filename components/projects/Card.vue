@@ -22,11 +22,11 @@ const hasLink = computed(() => {
   >
     <NuxtLink v-if="link" :href="link" class="absolute inset-0" />
     <img :src="`./projects/${image}`" alt="" class="object-cover h-40 w-full" />
-    <div class="p-4 space-y-5">
-      <h3 class="font-semibold text-slate-800 dark:text-slate-100">
+    <div class="p-4 space-y-2">
+      <h3 class="text-slate-800 dark:text-slate-100 text-xl">
         {{ title }}
       </h3>
-      <p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+      <p class="text-slate-600 dark:text-slate-400 leading-relaxed text-lg">
         {{ description }}
       </p>
     </div>

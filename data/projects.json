@@ -3,7 +3,7 @@
     "id": 1,
     "image": "bee-saver.png",
     "title": "Bee Saver",
-    "description": "Projet réalisé lors de ma formation pour une association fictive qui agit pour la protection des abeilles et de la biodiversité.",
+    "description": "Landing page pour une association fictive qui agit pour la protection des abeilles et de la biodiversité.",
     "stack": [
       {
         "name": "skill-icons:tailwindcss",
@@ -20,7 +20,7 @@
     "id": 2,
     "image": "dice-game.png",
     "title": "Dice Game",
-    "description": "Jeu de dés en ligne réalisé avec JavaScript lors de ma formation.",
+    "description": "Jeu de dés en ligne réalisé avec JavaScript.",
     "stack": [
       {
         "name": "skill-icons:tailwindcss",
@@ -37,7 +37,7 @@
     "id": 3,
     "image": "clipboard.png",
     "title": "Clipboard",
-    "description": "Projet réalisé lors de ma formation pour développeur une landing page d'une start-up fictive.",
+    "description": "Landing page d'une start-up fictive.",
     "stack": [
       {
         "name": "skill-icons:html",
@@ -54,7 +54,7 @@
     "id": 4,
     "image": "charles-cantin.png",
     "title": "Charles Cantin",
-    "description": "Projet réalisé lors de ma formation pour un photographe. Découverte de Nuxt, Strapi et de la Jamstack.",
+    "description": "Porfolio pour un photographe. Découverte de Nuxt, Strapi et de la Jamstack.",
     "stack": [
       {
         "name": "skill-icons:tailwindcss",
@@ -75,7 +75,7 @@
     "id": 5,
     "image": "hypnos.png",
     "title": "Hypnos",
-    "description": "Projet réalisé lors de ma formation avec le framework AdonisJS pour un groupe hôtelier qui loue des suites luxueuses dans toute la France.",
+    "description": "Application web pour un groupe hôtelier qui loue des suites luxueuses dans toute la France.",
     "stack": [
       {
         "name": "logos:adonisjs-icon",
@@ -83,6 +83,10 @@
       },
       {
         "name": "skill-icons:tailwindcss",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:alpinejs",
         "colorMode": true
       },
       {
