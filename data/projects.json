@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "clipboard.png",
+    "image": "hypnos.png",
     "title": "Hypnos",
     "description": "Projet réalisé lors de ma formation avec le framework AdonisJS pour un groupe hôtelier qui loue des suites luxueuses dans toute la France.",
     "stack": [
