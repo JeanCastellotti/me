@@ -1,7 +1,7 @@
 <template>
-  <div class="min-h-screen bg-white dark:bg-slate-800 space-y-32 pb-4">
-    <TheHeader />
-    <TheHero />
+  <AppWrapper>
+    <AppHeader />
+    <AppHero />
     <AppSection
       title="Compétences"
       title-position="left"
@@ -23,5 +23,5 @@
     >
       <ProjectsList />
     </AppSection>
-  </div>
+  </AppWrapper>
 </template>
