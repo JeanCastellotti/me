@@ -6,6 +6,14 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
+      title: "Coucou ! Moi c'est Jean.",
+      meta: [
+        {
+          name: 'description',
+          content:
+            "Autodidacte, j'ai appris des langages de programmation pendant mon temps libre puis j'ai décidé de réaliser une formation de développeur web afin d'obtenir un titre professionnelle. Lors de cette formation, je me suis tourné vers JavaScript et son écosystème.",
+        },
+      ],
       htmlAttrs: {
         lang: 'fr',
       },

@@ -5,8 +5,11 @@
     <TheLogo />
     <div class="flex gap-8">
       <div class="flex gap-3">
-        <HeaderIcon name="bxl:linkedin" />
-        <HeaderIcon name="uil:github-alt" />
+        <HeaderIcon
+          name="bxl:linkedin"
+          link="https://www.linkedin.com/in/jean-castellotti-27874b16b/"
+        />
+        <HeaderIcon name="uil:github-alt" link="https://github.com/JeanDevFR" />
       </div>
       <HeaderColorMode />
     </div>

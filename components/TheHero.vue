@@ -14,10 +14,10 @@
         Coucou ! Moi c'est Jean
       </h1>
       <p class="text-slate-500 dark:text-slate-400 leading-loose">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo
-        ipsam optio, eaque voluptatibus, officiis repudiandae ratione alias sed
-        necessitatibus unde dignissimos impedit debitis? Provident est molestiae
-        expedita! Aliquid, soluta facere?
+        Autodidacte, j'ai appris des langages de programmation pendant mon temps
+        libre puis j'ai décidé de réaliser une formation de développeur web afin
+        d'obtenir un titre professionnelle. Lors de cette formation, je me suis
+        tourné vers JavaScript et son écosystème.
       </p>
     </div>
   </section>
