@@ -1,10 +1,14 @@
 <template>
   <section class="max-w-screen-md mx-auto px-4 flex gap-20 items-center">
-    <div class="-rotate-3 rounded-lg bg-gray-200 dark:bg-slate-700 w-64">
+    <div
+      class="-rotate-45 bg-gray-200 dark:bg-slate-700 w-64 h-64 flex"
+      style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%"
+    >
       <img
         src="/portrait.jpeg"
         alt="Portrait de Jean"
-        class="rounded-lg rotate-3 w-64 h-64"
+        class="w-full rotate-45 mx-auto"
+        style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%"
       />
     </div>
     <div class="flex-1">
