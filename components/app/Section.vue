@@ -17,8 +17,8 @@ const titlePosition = computed(() => {
 
 const iconPosition = computed(() => {
   return {
-    'right-0 rotate-6': props.titlePosition === 'left',
-    'left-0 -rotate-6': props.titlePosition === 'right',
+    'right-6 rotate-6': props.titlePosition === 'left',
+    'left-6 -rotate-6': props.titlePosition === 'right',
   }
 })
 </script>

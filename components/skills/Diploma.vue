@@ -8,7 +8,7 @@
       class="text-slate-800 dark:text-slate-100"
     />
     <div
-      class="flex flex-col items-center text-slate-500 dark:text-slate-400 text-3xl font-swanky"
+      class="flex flex-col text-slate-500 dark:text-slate-400 text-3xl font-swanky text-center"
     >
       <span>Titre professionnel</span>
       <span>développeur web et web mobile</span>

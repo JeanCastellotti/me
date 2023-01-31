@@ -3,7 +3,7 @@ import projects from '@/data/projects.json'
 </script>
 
 <template>
-  <div class="grid grid-cols-6 gap-10">
+  <div class="grid sm:grid-cols-4 md:grid-cols-6 gap-10">
     <ProjectsCard
       v-for="project in projects"
       :key="project.id"
