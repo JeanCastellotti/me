@@ -4,7 +4,16 @@
     "image": "bee-saver.png",
     "title": "Bee Saver",
     "description": "Projet réalisé lors de ma formation pour une association fictive qui agit pour la protection des abeilles et de la biodiversité.",
-    "stack": ["skill-icons:tailwindcss-light", "skill-icons:alpinejs-light"],
+    "stack": [
+      {
+        "name": "skill-icons:tailwindcss",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:alpinejs",
+        "colorMode": true
+      }
+    ],
     "link": "https://jeandevfr.github.io/beesaver/"
   },
   {
@@ -12,7 +21,16 @@
     "image": "dice-game.png",
     "title": "Dice Game",
     "description": "Jeu de dés en ligne réalisé avec JavaScript lors de ma formation.",
-    "stack": ["skill-icons:tailwindcss-light", "skill-icons:javascript"],
+    "stack": [
+      {
+        "name": "skill-icons:tailwindcss",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:javascript",
+        "colorMode": false
+      }
+    ],
     "link": "https://jeandevfr.github.io/dicegame/public/"
   },
   {
@@ -20,7 +38,16 @@
     "image": "clipboard.png",
     "title": "Clipboard",
     "description": "Projet réalisé lors de ma formation pour développeur une landing page d'une start-up fictive.",
-    "stack": ["skill-icons:html", "skill-icons:sass"],
+    "stack": [
+      {
+        "name": "skill-icons:html",
+        "colorMode": false
+      },
+      {
+        "name": "skill-icons:sass",
+        "colorMode": false
+      }
+    ],
     "link": "https://jeandevfr.github.io/clipboard/"
   },
   {
@@ -29,9 +56,18 @@
     "title": "Charles Cantin",
     "description": "Projet réalisé lors de ma formation pour un photographe. Découverte de Nuxt, Strapi et de la Jamstack.",
     "stack": [
-      "skill-icons:tailwindcss-light",
-      "skill-icons:netlify-light",
-      "logos:strapi-icon"
+      {
+        "name": "skill-icons:tailwindcss",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:netlify",
+        "colorMode": true
+      },
+      {
+        "name": "logos:strapi-icon",
+        "colorMode": false
+      }
     ],
     "link": "https://stupefied-chandrasekhar-14846a.netlify.app/"
   },
@@ -41,10 +77,22 @@
     "title": "Hypnos",
     "description": "Projet réalisé lors de ma formation avec le framework AdonisJS pour un groupe hôtelier qui loue des suites luxueuses dans toute la France.",
     "stack": [
-      "logos:adonisjs-icon",
-      "skill-icons:tailwindcss-light",
-      "skill-icons:postgresql-light",
-      "skill-icons:heroku"
+      {
+        "name": "logos:adonisjs-icon",
+        "colorMode": false
+      },
+      {
+        "name": "skill-icons:tailwindcss",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:postgresql",
+        "colorMode": true
+      },
+      {
+        "name": "skill-icons:heroku",
+        "colorMode": false
+      }
     ]
   }
 ]

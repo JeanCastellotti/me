@@ -31,7 +31,13 @@ const hasLink = computed(() => {
         {{ description }}
       </p>
       <div class="flex gap-3 items-center">
-        <Icon v-for="icon in stack" :name="icon" :key="icon" size="28px" />
+        <AppIcon
+          v-for="icon in stack"
+          :name="icon.name"
+          :key="icon"
+          :color-mode="icon.colorMode"
+          size="28px"
+        />
       </div>
     </div>
   </div>
