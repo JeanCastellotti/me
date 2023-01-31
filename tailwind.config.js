@@ -8,7 +8,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Lato', ...defaultTheme.fontFamily.sans],
+        sans: ['Patrick Hand', ...defaultTheme.fontFamily.sans],
       },
     },
   },

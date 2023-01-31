@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   colorMode: {
     classSuffix: '',
   },
+
   app: {
     head: {
       title: "Coucou ! Moi c'est Jean.",
@@ -20,7 +21,7 @@ export default defineNuxtConfig({
       link: [
         {
           rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css2?family=Lato&family=Swanky+and+Moo+Moo&display=swap',
+          href: 'https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Swanky+and+Moo+Moo&display=swap',
         },
         {
           rel: 'preconnect',
