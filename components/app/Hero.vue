@@ -4,13 +4,13 @@
   >
     <div class="flex-1 flex justify-center">
       <div
-        class="-rotate-45 bg-gray-200 dark:bg-slate-700 w-44 h-44 md:w-64 md:h-64"
+        class="-rotate-45 bg-gray-200 dark:bg-slate-700 w-32 sm:w-48 md:w-64"
         style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%"
       >
         <img
           src="/portrait.jpeg"
           alt="Portrait de Jean"
-          class="w-44 h-44 md:w-64 md:h-64 rotate-45"
+          class="w-full md:h-64 rotate-45"
           style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%"
         />
       </div>
