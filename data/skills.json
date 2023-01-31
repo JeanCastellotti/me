@@ -1,32 +1,32 @@
 [
   {
     "name": "javascript",
-    "icon": "skill-icons:javascript",
+    "icon": { "name": "skill-icons:javascript", "colorMode": false },
     "level": "4/5"
   },
   {
     "name": "vue",
-    "icon": "skill-icons:vuejs-light",
+    "icon": { "name": "skill-icons:vuejs", "colorMode": true },
     "level": "3/5"
   },
   {
     "name": "tailwindcss",
-    "icon": "skill-icons:tailwindcss-light",
+    "icon": { "name": "skill-icons:tailwindcss", "colorMode": true },
     "level": "3/5"
   },
   {
     "name": "nuxt",
-    "icon": "skill-icons:nuxtjs-light",
+    "icon": { "name": "skill-icons:nuxtjs", "colorMode": true },
     "level": "2/5"
   },
   {
     "name": "typescript",
-    "icon": "skill-icons:typescript",
+    "icon": { "name": "skill-icons:typescript", "colorMode": false },
     "level": "1/5"
   },
   {
     "name": "adonis",
-    "icon": "logos:adonisjs-icon",
+    "icon": { "name": "logos:adonisjs-icon", "colorMode": false },
     "level": "1/5"
   }
 ]

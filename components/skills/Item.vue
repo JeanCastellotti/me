@@ -1,6 +1,6 @@
 <script setup>
 const props = defineProps({
-  icon: String,
+  icon: Object,
   level: String,
 })
 
@@ -17,7 +17,7 @@ const level = computed(() => {
 
 <template>
   <div class="flex gap-5 items-center">
-    <Icon :name="icon" size="38px" />
+    <AppIcon :name="icon.name" size="38px" :color-mode="icon.colorMode" />
     <div class="w-full bg-gray-100 dark:bg-slate-700 h-6 w-96 rounded-lg">
       <div
         class="bg-gradient h-6 bg-gradient-to-r from-sky-500 to-sky-400 rounded-lg"
