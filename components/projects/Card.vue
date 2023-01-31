@@ -36,7 +36,7 @@ const hasLink = computed(() => {
         v-for="icon in stack"
         :name="icon.name"
         :key="icon"
-        :color-mode="icon.colorMode"
+        :color-mode-enabled="icon.colorMode"
         size="28px"
       />
     </div>
