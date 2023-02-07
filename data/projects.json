@@ -61,6 +61,10 @@
         "colorMode": true
       },
       {
+        "name": "skill-icons:nuxtjs",
+        "colorMode": true
+      },
+      {
         "name": "skill-icons:netlify",
         "colorMode": true
       },
